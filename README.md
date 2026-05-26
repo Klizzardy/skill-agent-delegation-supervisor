@@ -1,3 +1,6 @@
+[English](./README.md) | 简体中文
+
+
 # Agent Delegation Supervisor — Reference Guide
 
 ## What This Skill Does

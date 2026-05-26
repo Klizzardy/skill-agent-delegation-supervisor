@@ -1,3 +1,6 @@
+English | [简体中文](./README.zh-CN.md)
+
+
 # Agent Delegation Supervisor — 中文参考指南
 
 ## 功能定位
