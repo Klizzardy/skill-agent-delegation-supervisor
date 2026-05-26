@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Delegation Supervisor"
+  short_description: "Delegate scoped work with verified delivery"
+  default_prompt: "Use $agent-delegation-supervisor to delegate this work safely and verify its delivery."
